@@ -38,7 +38,7 @@
 <br />
 <br />
 <p align="center">
-  <a href="https://www.naxph.dev"><img src="assets/banner3.gif" alt="Mid Banner"></a>
+  <a href="https://www.naxph.dev"><img src="assets/banner3.gif" alt="Mid 2 Banner"></a>
 </p>
 
 <br />
@@ -50,4 +50,10 @@
   <strong><a href="https://discordapp.com/users/197327957323284480/">Discord</a></strong> |
   <strong><a href="https://steamcommunity.com/id/naxph">Steam</a></strong> |
   <strong><a href="https://www.instagram.com/naxph/">Instagram</a></strong>
+</p>
+
+<br />
+<br />
+<p align="center">
+  <a href="https://www.naxph.dev"><img src="assets/banner4.gif" alt="Bottom Banner"></a>
 </p>
