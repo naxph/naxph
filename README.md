@@ -19,4 +19,35 @@
 <img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 </p>
 
+<br />
+<br />
+<p align="center">
+  <a href="https://www.naxph.dev"><img src="assets/banner2.gif" alt="Mid Banner"></a>
+</p>
 
+<br />
+<br />
+<h3 align="center">Currently Learning 🌱</h3>
+<p align="center">
+<img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
+<img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+<img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+</p>
+
+<br />
+<br />
+<p align="center">
+  <a href="https://www.naxph.dev"><img src="assets/banner3.gif" alt="Mid Banner"></a>
+</p>
+
+<br />
+<br />
+<h3 align="center">Socials 💬</h3>
+<p align="center">
+  <strong><a href="https://www.naxph.dev">Website</a></strong> |
+  <strong><a href="https://twitter.com/naxph_">Twitter</a></strong> |
+  <strong><a href="https://discordapp.com/users/197327957323284480/">Discord</a></strong> |
+  <strong><a href="https://steamcommunity.com/id/naxph">Steam</a></strong> |
+  <strong><a href="https://www.instagram.com/naxph/">Instagram</a></strong>
+</p>
