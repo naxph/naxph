@@ -19,6 +19,4 @@
 <img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 </p>
 
-<p align="center">
-  <a href="https://www.naxph.dev"><img src="assets/banner2.gif" alt="Mid Banner"></a>
-</p>
+
