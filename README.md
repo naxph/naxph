@@ -57,3 +57,7 @@
 <p align="center">
   <a href="https://www.naxph.dev"><img src="assets/banner4.gif" alt="Bottom Banner"></a>
 </p>
+
+<p align="center">
+  <a href="https://www.digitalocean.com/?refcode=3227efef6e55&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg" alt="DigitalOcean Referral Badge" /></a>
+</p>
