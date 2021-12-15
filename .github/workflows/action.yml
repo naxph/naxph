@@ -22,7 +22,7 @@ jobs:
           config_timezone: Asia/Kuala_Lumpur
           plugin_anilist: yes
           plugin_anilist_limit: 2
-          plugin_anilist_limit_characters: 22
+          plugin_anilist_limit_characters: 25
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites
           plugin_anilist_shuffle: yes
