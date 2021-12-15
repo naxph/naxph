@@ -21,24 +21,12 @@
 
 <br />
 <br />
-<p align="center">
-  <a href="https://www.naxph.dev"><img src="assets/banner2.gif" alt="Mid Banner"></a>
-</p>
-
-<br />
-<br />
 <h3 align="center">Currently Learning 🌱</h3>
 <p align="center">
 <img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
 <img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-</p>
-
-<br />
-<br />
-<p align="center">
-  <a href="https://www.naxph.dev"><img src="assets/banner3.gif" alt="Mid 2 Banner"></a>
 </p>
 
 <br />
@@ -54,9 +42,6 @@
 
 <br />
 <br />
-<p align="center">
-  <a href="https://www.naxph.dev"><img src="assets/banner4.gif" alt="Bottom Banner"></a>
-</p>
 
 <p align="center">
   <a href="https://www.digitalocean.com/?refcode=3227efef6e55&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg" alt="DigitalOcean Referral Badge" /></a>
